@@ -6,11 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Open the project in android studio or vscode.
+2. Open the emulator or connect with real device using USB cable or wirelessly through internet.
+3. Run flutter pub get command in the terminal to resolve dependencies.
+4. Run the application.
+5. If the application is giving Failure to build in the terminal, run flutter clean command.
+6. Now again run the application.
